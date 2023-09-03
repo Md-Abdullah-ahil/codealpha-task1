@@ -1,0 +1,48 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color:  rgb(95, 95, 206);
+    text-align: center;
+    text-decoration: underline solid 2px rgb(95, 95, 206);
+}
+#image
+{
+    width: 600px;
+    height: 200px;
+}
+.main-content{
+    margin: 20px auto ;
+    max-width: 400px;
+    border-radius: 20px;
+    border: 1px solid;
+    text-align: center;
+    padding: 20px 20px;
+    
+}
+
+
+#btn{
+    background-color: rgb(95, 95, 206);
+    color: #FFFFFF;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+}
+#btn2{
+    background-color: white;
+    color: rgb(95, 95, 206);
+    padding: 10px 20px;
+    
+    border-color: rgb(95, 95, 206);
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+
+#result
+{
+    color: rgb(95, 95, 206);
+    font-weight: bolder;
+}
