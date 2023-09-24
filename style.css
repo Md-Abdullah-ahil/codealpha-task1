@@ -1,13 +1,13 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
+    /* background-image: linear-gradient(to left,yellowgreen,rgb(163, 179, 77),#d6ffb7,rgb(205, 143, 50),rgb(60, 215, 112)); */
 }
 h1{
     color:  rgb(95, 95, 206);
     text-align: center;
     text-decoration: underline solid 2px rgb(95, 95, 206);
 }
-#image
-{
+#image{
     width: 600px;
     height: 200px;
 }
@@ -18,10 +18,8 @@ h1{
     border: 1px solid;
     text-align: center;
     padding: 20px 20px;
-    
+    /* background-color: #AAc0aa; */
 }
-
-
 #btn{
     background-color: rgb(95, 95, 206);
     color: #FFFFFF;
@@ -39,10 +37,7 @@ h1{
     border-radius: 15px;
     cursor: pointer;
 }
-
-
-#result
-{
+#result{
     color: rgb(95, 95, 206);
     font-weight: bolder;
 }
